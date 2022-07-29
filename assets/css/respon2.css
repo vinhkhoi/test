@@ -1,0 +1,39 @@
+@media screen and (max-width: 376px) {
+    #header{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    #text1{
+        margin: 0 20px;
+        margin-top: 52px;
+        font-family: "New York Extra Large";
+        font-weight: 700px;
+        font-size: 36px;
+        line-height: 43px;
+        text-align: center;
+        color: black;
+
+    }
+    #text2{
+        margin-top: 24px;
+        font-family: "SF mono";
+        font-weight: 400px;
+        font-size: 16px;
+        line-height: 170%;
+        text-align: center;
+        color: black;
+    }
+    #logo{
+        margin-top:24px;
+        margin-bottom: 21px;
+    }
+    #logo image {
+        width: 217px;
+        height: 20px;
+    }
+    #anh-ho-so{
+        
+
+    }
+    
+}

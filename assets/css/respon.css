@@ -1,0 +1,112 @@
+@media screen and (max-width: 376px) {
+       
+
+    #header {
+            padding-left: 20px;
+            padding-right: 20px;
+    }
+
+    #logo {
+            margin-top: 24px;
+            margin-bottom: 21px;
+        }
+
+    #logo img{
+            width: 217px;
+            height: 20px;
+            
+    }
+
+    #menu_right {
+            display: none ;
+    }
+
+    .menu-icon {
+            display: block;
+    }
+
+    .layout-content {
+            margin-top: 52px;
+    }
+
+    .layout-content img {
+            width: 375px;
+    }
+
+    .container {
+            display: block;
+    }
+
+    #Chu {
+            margin: 0 20px;
+            margin-top: 32px;
+            font-family: 'New York Extra Large';
+            font-weight: 700;
+            font-size: 36px;
+            line-height: 43px;
+            text-align: center;
+            color: #000000;
+    }
+
+    #text-for-menu {
+            margin-top: 24px;
+            font-family: 'SF Mono';
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 170%;
+            text-align: center;
+            color: #000000;
+    }
+
+    #next-text {
+            margin-top: 56px;
+    }
+
+
+    .Nokaido {
+            grid-template-columns: auto;
+    }
+
+    .Nokaido-img {
+            width: 335px;
+            margin-left: 20px;
+            margin-right: 20px;
+    }
+
+    .text-list {
+            overflow-x: hidden;
+    }
+
+
+    .Tieude {
+            margin: 0 auto;
+            margin-top: 20px;
+    }
+
+    #footer {
+            margin-top: 32px;
+    }
+
+    #anh-footer {
+            margin-top: 103px;
+    }
+
+    #Lorem {
+            max-width: 287px;
+            margin: 0 auto;
+            margin-top: 25px;
+    }
+
+    #ul1 {
+            margin-top: 32px;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+    }
+
+    .text-desc {
+            margin-top: 64px;
+    }
+}
